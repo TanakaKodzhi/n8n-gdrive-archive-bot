@@ -49,7 +49,7 @@
 
 ## 🛠 Быстрый старт и установка
 
-[Готовый шаблон JSON для скачивания](google_drive_archiver_template.md)
+**👉[Готовый шаблон JSON для скачивания](google_drive_archiver_template.md)**
 
 ### Предварительные требования
 
